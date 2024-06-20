@@ -6,5 +6,5 @@ A simple Todo List application to keep track of tasks.
 
 Clone the repository:
 ```bash
-git clone(https://github.com/kimmsunghyun/todo-list-app/blob/main/README.md)
+https://github.com/kimmsunghyun/todo-list-app/blob/main/README.md
 
